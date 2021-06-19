@@ -1,9 +1,8 @@
 # WhaleKiller
-Front running bot for BSC
+<h6>Front running bot for BSC</h6>
 
 Bot connects to your wallet to make transactions.<br>
-<img width="451" alt="WhaleKiller" src="https://user-images.githubusercontent.com/85898290/122647111-da825580-d122-11eb-984b-b5e0a1286047.PNG">
-
+&emsp;&emsp;&emsp;&emsp;<img width="451" alt="WhaleKiller" src="https://user-images.githubusercontent.com/85898290/122647111-da825580-d122-11eb-984b-b5e0a1286047.PNG">
 HOW TO USE: <br>
     &emsp;&emsp;Chose a target on BSC (go on Poocoin search for a high cap or trending token and look for a big transaction, then check the it's wallet if is big take the address) and fill the box.<br>
     &emsp;&emsp;Set the balance of BNB to use from 0.05(5%) to 1(100%).<br>
@@ -40,3 +39,4 @@ TEST ADDRESS FOS PROOF!: https://bscscan.com/address/0xdda109642e54466110b8ddb5a
 
 
 for info or problems contact: Scaphome@protonmail.com
+
