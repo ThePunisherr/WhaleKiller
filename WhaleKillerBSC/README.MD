@@ -14,7 +14,7 @@ HOW TO USE: <br>
 
 <p>DOWNLOAD:
 
-   &emsp;&emsp;<a> 1.0 (https://enzypt.io/tzdLGRZJx8J3mFUomnc9PgCTOE4uzpA8/zb3AbwHWOQhDnDOUOChreDnq2ZRsCkfX-MkUAas79m8)<br>
+   &emsp;&emsp;<a> 1.0 (https://enzypt.io/LD97gQpkrSKiXG7BrnEHwAmqcrw0FGmW/PqBPTOF2Qj8LosgWN_b6FYpaoivi_8LySmRfEJByJ8g)<br>
       &emsp;&emsp;&emsp;&emsp;- Public release<br>
       &emsp;&emsp;&emsp;&emsp;- Fixed bug with address validator<br>
       &emsp;&emsp;&emsp;&emsp;- UI bug fixes</a>
